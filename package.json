@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "babel-cli": "^6.26.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "jest": "^29.3.1"
+  },
+  "name": "linkedlist",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "babel src -d js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoinechamoun/linkedList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoinechamoun/linkedList/issues"
+  },
+  "homepage": "https://github.com/antoinechamoun/linkedList#readme"
+}
